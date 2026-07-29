@@ -1,7 +1,6 @@
 <p align="center">
    <samp><br>
-    Hi, I'm Dhanush! 
-   <br>
+   Hi, I'm Dhanush! 
    <br>
    <img src="./github.gif" alt="" width="100">
    <br>
