@@ -2,7 +2,7 @@
    <samp><br>
     Hi, I'm Dhanush! 
    <br>
-   <img src="" alt="" width="40">
+   <img src="./github.gif" alt="" width="40">
    <br>
    I’m currently a PhD student at the CNRS-AIST JRL
    <br>
