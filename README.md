@@ -12,9 +12,9 @@
 <p align="center"><samp> ~
    <a href="https://dhanushvarma.github.io/">website</a>
    ·
-   <a href="https://x.com/dhanush_tds">X</a>
+   <a href="https://x.com/dhanushpenmetsa">X</a>
    ·
-   <a href="mailto:d-penmetsa@aist.go.jp">email</a>
+   <a href="mailto:pdhanu2001@gmail.com">email</a>
    ~ </samp>
 </p>
 </p>
